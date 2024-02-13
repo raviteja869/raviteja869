@@ -30,7 +30,7 @@ Connect with Me
 --->
 I'm always open to connecting with fellow tech enthusiasts and professionals. Whether you're interested in discussing a project, sharing ideas on DevOps and API development, or exploring the possibilities of Generative AI, feel free to reach out!
 
-LinkedIn: https://www.linkedin.com/in/ravi-teja-gannamaneni/
+
 <!---
 Twitter: [Your Twitter Handle]
 Email: [Your Email]
